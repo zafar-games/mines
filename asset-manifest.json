@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61590fe4.css",
+    "main.js": "/static/js/main.16feb203.js",
+    "static/js/787.24a3ac47.chunk.js": "/static/js/787.24a3ac47.chunk.js",
+    "static/media/gameSound.mp3": "/static/media/gameSound.606c6510d043e69eae59.mp3",
+    "static/media/cashout.wav": "/static/media/cashout.e0a5f7555b339b9bec67.wav",
+    "static/media/bomb.wav": "/static/media/bomb.529b8944e83780d8ea9f.wav",
+    "static/media/mineClick.wav": "/static/media/mineClick.9ea56cbd4f6af09b2bc7.wav",
+    "static/media/gameStart.wav": "/static/media/gameStart.95f9fd5351f4ccd3b2f7.wav",
+    "static/media/lose-game.wav": "/static/media/lose-game.a2cc55ad92adacf4d8a7.wav",
+    "static/media/car-ray.png": "/static/media/car-ray.3c4969387c80e0d3b77f.png",
+    "static/media/limbo_bg.png": "/static/media/limbo_bg.488b289d3fe195843a87.png",
+    "static/media/gift-box.png": "/static/media/gift-box.f8a66f6cb6783eb168ec.png",
+    "static/media/red-tile.svg": "/static/media/red-tile.5a050e3d786af0cfc292eedd791684db.svg",
+    "static/media/Gem.svg": "/static/media/Gem.2cb4c633701b614a4b23771c602e1e6f.svg",
+    "static/media/bomb.svg": "/static/media/bomb.329a482c651644bd1381ba6296782664.svg",
+    "static/media/dollor.svg": "/static/media/dollor.6d0cf1b88565aee6021d2f5e59780bdf.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.182ab8a2e9bbac1406c1.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.9324a09e72f9cc044f34.svg",
+    "main.61590fe4.css.map": "/static/css/main.61590fe4.css.map",
+    "main.16feb203.js.map": "/static/js/main.16feb203.js.map",
+    "787.24a3ac47.chunk.js.map": "/static/js/787.24a3ac47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61590fe4.css",
+    "static/js/main.16feb203.js"
+  ]
+}
